@@ -1,0 +1,2 @@
+# DiccionarioDatosUASLP
+Diccionario de datos.
